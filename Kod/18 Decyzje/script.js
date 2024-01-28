@@ -18,6 +18,7 @@ function CzyParzysta() {
 
 CzyParzysta(liczba);
 
+console.log('_________________________________________________________')
 
 let i;
 function CzyParzystaWZakresie() {
