@@ -1,7 +1,10 @@
 .container{
-display: flex;
+    display: flex;
+    height: 400px;
+    background-color: grey;
     flex-direction: row; /*domyślnie jest kolumna*/
     justify-content: space-evenly;
+    align-items: end;
 }
 
 .box{
@@ -10,5 +13,9 @@ display: flex;
     background-color: orange;
     margin: 5px;
 
+
+}
+.self{
+    align-self: flex-start;
 
 }
