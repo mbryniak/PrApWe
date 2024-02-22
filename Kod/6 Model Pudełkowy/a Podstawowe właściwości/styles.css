@@ -2,11 +2,8 @@
     width: 200px;
     height: 100px;
     background-color: blue;
-
 }
-
-#box1{
-
+#box1 {
     background-color: green;
     height: 100px;
     width: 100px;
@@ -14,9 +11,7 @@
     padding: 50px;
     border: 1px solid red;
 }
-
 #box2 {
-
     background-color: blue;
     width: 100px;
     height: 100px;
@@ -24,15 +19,13 @@
     padding: 30px;
     border: 10px solid red;
     box-sizing: border-box;
-
 }
-
-#box3{
+#box3 {
 
     background-color: orange;
     width: 50%;
     height: 100px;
     margin: 100px;
-    
+
 
 }
